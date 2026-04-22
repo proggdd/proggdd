@@ -14,6 +14,8 @@ Engineer with formal Python-developer retraining (SFU, 256 hours, "Programmer" q
 
 📦 **[PDF case study](https://github.com/proggdd/life-tracking-bot-public/releases/tag/v1.0.0)** — a 12-section deep dive on the design and operational story (RU).
 
+🧪 **[Emission-calc demo](https://github.com/proggdd/emission-calc-demo)** — sanitized Excel → Word pipeline from my lab years. GOST 33007, expanded uncertainty at P=0.95, live formulas. README in RU + EN.
+
 ### Stack
 
 **Core:** Python · FastAPI · SQLAlchemy · PostgreSQL · pytest · pandas
