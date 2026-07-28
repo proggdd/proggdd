@@ -1,38 +1,33 @@
-## Hi, I'm Daniil 👋
+### Hi, I'm Daniil 👋
 
-**Python Developer · Data Engineer · Data Analytics Engineer**
+**Data Analyst · Data Analytics Engineer**  
+Engineer with a Master's degree and a formal background in processing complex data. I specialize in turning raw datasets, dense regulatory standards, and user logs into reproducible analysis, interactive dashboards, and actionable business insights.
 
-Engineer with formal Python-developer retraining (SFU, 256 hours, "Programmer" qualification, 2024) and a Master's with distinction. I turn dense regulatory standards into reproducible, testable code.
+### 🚀 Featured Analytical Projects
 
-### What I'm building right now
+*   📊 **[A/B Test Analysis: Mobile Game Feature Rollout](https://github.com/proggdd/ab-test-mobile-game)**  
+    End-to-end analysis of a 59-day A/B experiment (100k users) for a mobile game studio. Evaluated ARPU lift (+9.21%) versus early retention drop using **Welch t-tests**, **bootstrap CIs** (5000 iterations), and **Z-tests** in Python. Prevented a risky feature rollout by proving that the revenue spike was driven by pushing early-cohort users into churn.
 
-🛰 **[Life Tracking System](https://github.com/proggdd/life-tracking-bot-public)** — a multi-tenant Telegram bot running in production on Google Apps Script. 19 modules, 5 months of uptime, FSM on CacheService, cron triggers with a silent-when-green policy, auto-heal utilities.
+*   🛰 **[Life Tracking System (Analytics Module)](https://github.com/proggdd/life-tracking-bot-public)**  
+    A gamified tracking platform with a custom analytics engine built entirely on Google Sheets. Designed a multi-sheet relational schema that tracks multi-currency finances, habits, and wellbeing. Implemented cross-sheet automated dashboards and a cron-driven reporting system for daily active users.
 
-🐍 **[Python migration](https://github.com/proggdd/life-tracking-bot-python-public)** — porting the bot core to FastAPI / SQLAlchemy / PostgreSQL / python-telegram-bot with Alembic.
+*   🧪 **[Emission-calc demo](https://github.com/proggdd/emission-calc-demo)**
+    Advanced data pipeline from my laboratory engineering years. Built a multi-sheet Excel system implementing complex GOST measurement methodologies: achieved a 10× calculation speed-up, processed ~820 samples across 82 clients over 3 years, and eliminated formula errors.
 
-📄 **[Architecture writeup](https://github.com/proggdd/life-tracking-bot-public/blob/main/docs/architecture.md)** — Mermaid diagrams covering ERD, FSM, cron, and message sequences.
+### 🛠 Core Data Stack
 
-📦 **[PDF case study](https://github.com/proggdd/life-tracking-bot-public/releases/tag/v1.0.0)** — a 12-section deep dive on the design and operational story (RU).
+*   **Data Processing & Scripting:** Python (Pandas, NumPy) · SQL 
+*   **BI & Visualization:** Tableau · Power BI · MS Excel (Advanced) · Google Sheets
+*   **Statistics & Analysis:** A/B Testing · Hypothesis Testing · scipy · statsmodels · matplotlib · Jupyter
+*   **Core Competencies:** EDA · Data Cleansing · Product Metrics (ARPU, Retention, LTV) · Data Storytelling
 
-🧪 **[Emission-calc demo](https://github.com/proggdd/emission-calc-demo)** — sanitized Excel → Word pipeline from my lab years. GOST 33007, expanded uncertainty at P=0.95, live formulas. README in RU + EN.
+### ⚡ Currently
 
-### Stack
+*   Certified Data Analyst (Google Data Analytics Professional Certificate).
+*   Actively seeking Data Analyst / Product Analyst roles.
+*   **Open to remote roles and international relocation** (Currently in Vietnam; open to Thailand, Singapore, worldwide).
+*   English C2 per EF SET (77/100).
 
-**Core:** Python · FastAPI · SQLAlchemy · PostgreSQL · pytest · pandas
-**Integration:** Google Apps Script (V8) · Google Sheets · Telegram Bot API · REST · webhook/cron pipelines
-**Tooling:** Git · clasp · Alembic · Docker · Mermaid · Excel (advanced)
+### 📫 Reach me
 
-### Background
-
-Previously — laboratory engineer at an accredited atmospheric-emissions lab. Built a multi-sheet Excel system implementing GOST measurement methodologies: 10× calculation speed-up, ~820 samples across 82 clients over 3 years, zero formula errors. That's where I fell in love with making messy domain rules machine-checkable.
-
-### Currently
-
-- Completing the Coursera **Google Data Analytics Professional Certificate** (3 of 8 courses done)
-- Migrating my production bot to a Python stack with Alembic-managed schema
-- Open to **remote roles** and **international relocation** (Vietnam, Thailand, Singapore, worldwide)
-- **English C2** per [EF SET](https://cert.efset.org/L9K2KU) (77/100, April 2026)
-
-### Reach me
-
-[LinkedIn](https://www.linkedin.com/in/daniil-glotov/) · [Telegram](https://t.me/glotov_daniil) · prog.gdd@gmail.com
+[LinkedIn](https://linkedin.com/in/proggdd) · [Telegram](https://t.me/glotov_daniil) · [prog.gdd@gmail.com](mailto:prog.gdd@gmail.com)
