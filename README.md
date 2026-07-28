@@ -25,7 +25,7 @@ Engineer with a Master's degree and a formal background in processing complex da
 
 *   Certified Data Analyst (Google Data Analytics Professional Certificate).
 *   Actively seeking Data Analyst / Product Analyst roles.
-*   **Open to remote roles and international relocation** (Currently in Vietnam; open to Thailand, Singapore, worldwide).
+*   **Open to remote roles and international relocation** (Currently in Vietnam; open to worldwide).
 *   English C2 per EF SET (77/100).
 
 ### 📫 Reach me
