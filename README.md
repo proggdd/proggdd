@@ -12,7 +12,7 @@ Engineer with a Master's degree and a formal background in processing complex da
     A gamified tracking platform with a custom analytics engine built entirely on Google Sheets. Designed a multi-sheet relational schema that tracks multi-currency finances, habits, and wellbeing. Implemented cross-sheet automated dashboards and a cron-driven reporting system for daily active users.
 
 *   🧪 **[Emission-calc demo](https://github.com/proggdd/emission-calc-demo)**
-    Advanced data pipeline from my laboratory engineering years. Built a multi-sheet Excel system implementing complex GOST measurement methodologies: achieved a 10× calculation speed-up, processed ~820 samples across 82 clients over 3 years, and eliminated formula errors.
+    Advanced data pipeline from my laboratory engineering years. Built a multi-sheet Excel system implementing complex GOST measurement methodologies: achieved a 10× calculation speed-up, processed ~820 samples across 82 clients, and eliminated formula errors.
 
 ### 🛠 Core Data Stack
 
@@ -30,4 +30,4 @@ Engineer with a Master's degree and a formal background in processing complex da
 
 ### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/proggdd) · [Telegram](https://t.me/glotov_daniil) · [prog.gdd@gmail.com](mailto:prog.gdd@gmail.com)
+[LinkedIn](https://linkedin.com/in/proggdd) · [Telegram](https://t.me/glotov_daniil) · [gddviet@gmail.com](mailto:gddviet@gmail.com)
