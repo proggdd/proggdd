@@ -6,7 +6,7 @@ Engineer with a Master's degree and a formal background in processing complex da
 ### 🚀 Featured Analytical Projects
 
 *   📊 **[A/B Test Analysis: Mobile Game Feature Rollout](https://github.com/proggdd/ab-test-mobile-game)**  
-    End-to-end analysis of a 59-day A/B experiment (100k users) for a mobile game studio. Evaluated ARPU lift (+9.21%) versus early retention drop using **Welch t-tests**, **bootstrap CIs** (5000 iterations), and **Z-tests** in Python. Prevented a risky feature rollout by proving that the revenue spike was driven by pushing early-cohort users into churn.
+    End-to-end analysis of a 59-day A/B experiment (100k users) for a mobile game studio. **[Interactive report →](https://proggdd.github.io/ab-test-mobile-game/)** Evaluated ARPU lift (+9.21%) versus early retention drop using **Welch t-tests**, **bootstrap CIs** (5000 iterations), and **Z-tests** in Python. Recommended against shipping the variant after weighing the revenue lift against a drop in early-day retention.
 
 *   🛰 **[Life Tracking System (Analytics Module)](https://github.com/proggdd/life-tracking-bot-public)**  
     A gamified tracking platform with a custom analytics engine built entirely on Google Sheets. Designed a multi-sheet relational schema that tracks multi-currency finances, habits, and wellbeing. Implemented cross-sheet automated dashboards and a cron-driven reporting system for daily active users.
@@ -17,7 +17,7 @@ Engineer with a Master's degree and a formal background in processing complex da
 ### 🛠 Core Data Stack
 
 *   **Data Processing & Scripting:** Python (Pandas, NumPy) · SQL 
-*   **BI & Visualization:** Tableau · Power BI · MS Excel (Advanced) · Google Sheets
+*   **BI & Visualization:** Power BI · MS Excel (Advanced) · Google Sheets · interactive reporting (custom SVG)
 *   **Statistics & Analysis:** A/B Testing · Hypothesis Testing · scipy · statsmodels · matplotlib · Jupyter
 *   **Core Competencies:** EDA · Data Cleansing · Product Metrics (ARPU, Retention, LTV) · Data Storytelling
 
@@ -25,9 +25,9 @@ Engineer with a Master's degree and a formal background in processing complex da
 
 *   Certified Data Analyst (Google Data Analytics Professional Certificate).
 *   Actively seeking Data Analyst / Product Analyst roles.
-*   **Open to remote roles and international relocation** (Currently in Vietnam; open to worldwide).
-*   English C2 per EF SET (77/100).
+*   **Open to fully remote roles worldwide** (currently in Vietnam, UTC+7).
+*   English — EF SET C2 in reading and listening (77/100); confident written and asynchronous communication.
 
 ### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/proggdd) · [Telegram](https://t.me/glotov_daniil) · [gddviet@gmail.com](mailto:gddviet@gmail.com)
+[LinkedIn](https://linkedin.com/in/daniil-glotov) · [Telegram](https://t.me/glotov_daniil) · [gddviet@gmail.com](mailto:gddviet@gmail.com)
