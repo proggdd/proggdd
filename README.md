@@ -1,33 +1,33 @@
-### Hi, I'm Daniil 👋
+### Hi, I'm Daniil
 
-**Data Analyst · Data Analytics Engineer**  
-Engineer with a Master's degree and a formal background in processing complex data. I specialize in turning raw datasets, dense regulatory standards, and user logs into reproducible analysis, interactive dashboards, and actionable business insights.
+**Data Analyst · Product analytics · Environmental & HSE data**  
+Engineer with a Master's degree (environmental and industrial safety) who moved into analytics. Since November 2025 I work as a data analyst at CNDT, an environmental services company: multi-year hydrogeological, emissions and monitoring data, dashboards, automation in Python.
 
-### 🚀 Featured Analytical Projects
+### Featured projects
 
-*   📊 **[A/B Test Analysis: Mobile Game Feature Rollout](https://github.com/proggdd/ab-test-mobile-game)**  
-    End-to-end analysis of a 59-day A/B experiment (100k users) for a mobile game studio. **[Interactive report →](https://proggdd.github.io/ab-test-mobile-game/)** Evaluated ARPU lift (+9.21%) versus early retention drop using **Welch t-tests**, **bootstrap CIs** (5000 iterations), and **Z-tests** in Python. Recommended against shipping the variant after weighing the revenue lift against a drop in early-day retention.
+*   **[A/B Test Analysis: Mobile Game Feature Rollout](https://github.com/proggdd/ab-test-mobile-game)**  
+    59-day experiment, 100k users. **[Interactive report](https://proggdd.github.io/ab-test-mobile-game/)**. ARPU +9.21%, driven by ARPPU (+10.85%) rather than conversion, while early retention D1–D7 dropped 1.4–2.0 pp. Welch's t-test, 5,000-iteration bootstrap, two-proportion z-tests, SRM check. I first recommended holding the feature, then re-audited it: the drop was the same-sized segment leaving a day earlier, not churn, so I reversed the call. Rebuilt in SQL (PostgreSQL) with Holm correction; all 25 checks match the Python version.
 
-*   🛰 **[Life Tracking System (Analytics Module)](https://github.com/proggdd/life-tracking-bot-public)**  
-    A gamified tracking platform with a custom analytics engine built entirely on Google Sheets. Designed a multi-sheet relational schema that tracks multi-currency finances, habits, and wellbeing. Implemented cross-sheet automated dashboards and a cron-driven reporting system for daily active users.
+*   **[Emission-calc demo](https://github.com/proggdd/emission-calc-demo)**  
+    Sanitized version of the Excel calculation engine I built in an ISO/IEC 17025 accredited lab: GOST 33007 methodology, measurement uncertainty at P = 0.95. The original handled about 820 samples for 82 clients with zero formula errors and cut protocol preparation from 40 minutes to 4.
 
-*   🧪 **[Emission-calc demo](https://github.com/proggdd/emission-calc-demo)**
-    Advanced data pipeline from my laboratory engineering years. Built a multi-sheet Excel system implementing complex GOST measurement methodologies: achieved a 10× calculation speed-up, processed ~820 samples across 82 clients, and eliminated formula errors.
+*   **[Life Tracking System](https://github.com/proggdd/life-tracking-bot-public)**  
+    Gamified tracker that started in Google Sheets (multi-sheet schema for finances, habits and wellbeing, automated dashboards) and is being moved to Python, FastAPI and PostgreSQL.
 
-### 🛠 Core Data Stack
+### Stack
 
-*   **Data Processing & Scripting:** Python (Pandas, NumPy) · SQL 
-*   **BI & Visualization:** Power BI · MS Excel (Advanced) · Google Sheets · interactive reporting (custom SVG)
-*   **Statistics & Analysis:** A/B Testing · Hypothesis Testing · scipy · statsmodels · matplotlib · Jupyter
-*   **Core Competencies:** EDA · Data Cleansing · Product Metrics (ARPU, Retention, LTV) · Data Storytelling
+*   **Data:** SQL (PostgreSQL), Python (pandas, NumPy, SciPy, statsmodels), Jupyter
+*   **BI:** Tableau, Power BI, Excel, Google Sheets
+*   **Methods:** A/B testing, hypothesis testing, cohort and retention analysis, product metrics (ARPU, ARPPU, LTV), data validation
+*   **Automation:** ETL, REST APIs, web scraping, Telegram bots, FastAPI
 
-### ⚡ Currently
+### Now
 
-*   Certified Data Analyst (Google Data Analytics Professional Certificate).
-*   Actively seeking Data Analyst / Product Analyst roles.
-*   **Open to fully remote roles worldwide** (currently in Vietnam, UTC+7).
-*   English — EF SET C2 in reading and listening (77/100); confident written and asynchronous communication.
+*   Data analyst at CNDT (since November 2025).
+*   Google Data Analytics Professional Certificate.
+*   Open to remote roles in product, game or iGaming analytics, and in environmental and HSE data. Vietnam, UTC+7.
+*   English: EF SET C2 in reading and listening.
 
-### 📫 Reach me
+### Contacts
 
-[LinkedIn](https://linkedin.com/in/daniil-glotov) · [Telegram](https://t.me/glotov_daniil) · [gddviet@gmail.com](mailto:gddviet@gmail.com)
+[LinkedIn](https://linkedin.com/in/daniil-glotov) · [Telegram](https://t.me/glotov_daniil) · [gddviet@gmail.com](mailto:gddviet@gmail.com) · [CV and certificates](https://drive.google.com/drive/folders/1mVBO0oNjwVRYMJLygUD8Ba6lhwoUDPRo)
